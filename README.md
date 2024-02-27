@@ -1,7 +1,8 @@
-# teach-fe-starter
+# prepare your future
 # Open your folder
 # Right click open terminal 
-# Input git clone https://github.com/trietdangka95/teach-fe-starter.git
+# Input "git clone https://github.com/trietdangka95/teach-fe-starter.git" 
 # Press enter on your keyboard
-# Input code .
+# Input "code ."
 # Open vscode to work
+# Exclude "" when input text
